@@ -7,6 +7,7 @@ https://github.com/ogut77/HRA/blob/main/HR14.csv
 
 Excel Dashboard Introduction
 https://www.aihr.com/courses/hr-metrics-reporting/
+Data:
 
 Excel Dashboard Advanced 
 
