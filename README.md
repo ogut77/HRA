@@ -5,7 +5,7 @@ https://rise.articulate.com/share/6XTYOBdLMfq1pJzMaeHvePuUVgbo8tlW#/
 Data
 https://github.com/ogut77/HRA/blob/main/HR14.csv
 
-Excel Dashboard
+Excel Dashboard Introduction
 https://www.aihr.com/courses/hr-metrics-reporting/
 
 Excel Dashboard Advanced 
