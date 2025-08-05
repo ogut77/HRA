@@ -24,3 +24,9 @@ Power Query
 Excel For HR: How to Use Pivot Tables [2025]  -https://www.youtube.com/watch?v=uUQlNHHCcF0&t=671s
 
 Excel Pivot Tables for HR: Part 1 - Mastering Data Analysis Techniques- https://www.youtube.com/watch?v=JHxc70l3Aic
+
+HR Metrics and KPI 
+
+https://www.youtube.com/watch?v=_kzjMguvZzc -https://www.youtube.com/watch?v=_kzjMguvZzc
+
+https://www.aihr.com/blog/human-resources-key-performance-indicators-hr-kpis/
