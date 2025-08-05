@@ -18,3 +18,9 @@ HR Analytics Dashboard: Excel-based project offering insights into employee attr
 https://www.aihr.com/blog/hr-analytics-case-studies/
 
 HR Visualiazation
+
+Power Query
+
+Excel For HR: How to Use Pivot Tables [2025]  -https://www.youtube.com/watch?v=uUQlNHHCcF0&t=671s
+
+Excel Pivot Tables for HR: Part 1 - Mastering Data Analysis Techniques- https://www.youtube.com/watch?v=JHxc70l3Aic
