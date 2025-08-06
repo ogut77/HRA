@@ -49,4 +49,5 @@ https://www.pk-anexcelexpert.com/hr-attrition-and-head-count-analysis-dashboard-
 Data and Excel Sheet:
 
 
-
+Employee Attrition Dashboard Using Pivot Tables in Excel | Full Project Walkthrough https://www.youtube.com/watch?v=payKSEurCZI
+Dataset: https://github.com/mosskhinagte/datasetss/blob/main/datasets.xlsx
