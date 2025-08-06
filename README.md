@@ -43,4 +43,10 @@ How To Make HR Reports Using Excel | HR Analytics in Excel-https://www.youtube.c
 Data: https://onedrive.live.com/?id=B990970E01B69A48%2150243&cid=B990970E01B69A48&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa2lhdGdFT2w1QzVnNGhELThBU0tCNmZLdDg5X2c%5FZT1tT2xCbEM
 https://segunakiode.com/ytresources
 
+HR Attrition and Head Count Analysis Dashboard in Excel | Complete Tutorial
+https://www.youtube.com/watch?v=xcLmUXrGtKY&list=PLbDvAYjpWJ7CpupRYMRkXSN0L92t7nUuF&index=61
+https://www.pk-anexcelexpert.com/hr-attrition-and-head-count-analysis-dashboard-in-excel-free-download/
+Data and Excel Sheet:
+
+
 
