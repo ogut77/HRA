@@ -39,4 +39,8 @@ Data:
 HR Analytics Dashboard: Excel-based project offering insights into employee attrition, demographics, and key HR metrics. 
  Data: https://github.com/ektad08/HR-Analytics/blob/main/HR%20DATA_Excel.xlsx  Output:https://github.com/ektad08/HR-Analytics/blob/main/hr%20analytics%20dashboard1.jpg
 
+How To Make HR Reports Using Excel | HR Analytics in Excel-https://www.youtube.com/watch?v=vYEZaymh-r4&list=PL2LPdLo3jDLM8OuundGCNAgGot9hsqyS6&index=1
+Data: https://onedrive.live.com/?id=B990970E01B69A48%2150243&cid=B990970E01B69A48&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa2lhdGdFT2w1QzVnNGhELThBU0tCNmZLdDg5X2c%5FZT1tT2xCbEM
+https://segunakiode.com/ytresources
+
 
