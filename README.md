@@ -29,6 +29,7 @@ How to build an Interactive HR Dashboard in Excel | HR Analytics in Excel [2025]
 
 HOW TO CREATE A STUNNING HR ANALYTICS DASHBOARD IN EXCEL-https://www.youtube.com/watch?v=sYmQZQe0EvU  
 Data: https://drive.google.com/drive/folders/1-84tT8vHrvI8afF7rerALZnRWuNQbTCH
+https://github.com/ogut77/HRA/blob/main/Hr%20Analytics%20Dataset.xlsx
 
 Excel Dashboard Introduction
 https://www.aihr.com/courses/hr-metrics-reporting/
