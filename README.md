@@ -19,7 +19,7 @@ Excel Pivot Tables for HR: Part 1 - Mastering Data Analysis Techniques- https://
 
 HR Metrics and KPI 
 
-https://www.youtube.com/watch?v=_kzjMguvZzc -https://www.youtube.com/watch?v=_kzjMguvZzc
+HR KPI Dashboard Template | Key Metrics for HR Management -https://www.youtube.com/watch?v=_kzjMguvZzc
 
 https://www.aihr.com/blog/human-resources-key-performance-indicators-hr-kpis/
 
