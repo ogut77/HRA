@@ -51,3 +51,7 @@ Data and Excel Sheet:
 
 Employee Attrition Dashboard Using Pivot Tables in Excel | Full Project Walkthrough https://www.youtube.com/watch?v=payKSEurCZI
 Dataset: https://github.com/mosskhinagte/datasetss/blob/main/datasets.xlsx
+
+
+How To Calculate Employee Turnover Rate: Formulas Plus Free Excel Template https://www.aihr.com/blog/how-to-calculate-employee-turnover-rate/
+
